@@ -17,6 +17,7 @@ public class ReferenceTypeTask {
 
         Cat catTom = new Cat();
         Cat catDaisy = new Cat();
+
         Cat catSteven = new Cat();
         Cat catGeorge = new Cat();
 
